@@ -3,7 +3,7 @@
 # SQL Data Analytics Toolkit
 
 ---
-![Data Analytics](docs/data_analytics.png)
+![Data Analytics](docs/data_analytics.PNG)
 
 ---
 
