@@ -2,7 +2,11 @@
 
 # SQL Data Analytics Toolkit
 
-![Data Analytics](docs/data_analytics.png)
+---
+title: "SQL Data Analytics Toolkit"
+image: "docs/data_analytics.png"
+---
+
 
 A comprehensive **collection of SQL scripts** for data exploration, analytics, and reporting. This repository is designed to help data analysts, business intelligence (BI) professionals, and SQL enthusiasts **quickly analyze, segment, and visualize data** from relational databases.
 
