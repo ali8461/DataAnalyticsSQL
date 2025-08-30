@@ -3,8 +3,8 @@
 # SQL Data Analytics Toolkit
 
 ---
-title: "SQL Data Analytics Toolkit"
-image: "docs/data_analytics.png"
+![Data Analytics](docs/data_analytics.png)
+
 ---
 
 
